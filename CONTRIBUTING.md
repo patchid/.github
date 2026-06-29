@@ -1,6 +1,6 @@
 # Contributing to Patch ID
 
-Thanks for your interest in contributing to Patch ID. We’re building in the open and welcome developers who want to help shape the future of developer reputation.
+Thanks for your interest in contributing. We're building in the open and welcome developers who want to help shape the future of developer reputation.
 
 ## What you can contribute to
 
@@ -34,7 +34,7 @@ Thanks for your interest in contributing to Patch ID. We’re building in the op
 - Target `dev` — never open PRs directly to `main`
 - Keep PRs focused — one feature or fix per PR
 - Write a clear description of what changed and why
-- Link any related issues with `Closes #issue-number`
+- Link related issues with `Closes #issue-number`
 - All checks must pass before merge
 
 ## Commit style
@@ -57,18 +57,15 @@ docs: add API authentication guide
 
 ## Reporting bugs
 
-Open an issue using the **Bug Report** template. Include:
-- Steps to reproduce
-- Expected vs actual behaviour
-- Browser/OS/Node version
+Open an issue using the **Bug Report** template.
 
 ## Feature requests
 
-Open an issue using the **Feature Request** template. We review all requests — popular ones get added to the roadmap.
+Open an issue using the **Feature Request** template.
 
 ## Code of Conduct
 
-All contributors must follow our [Code of Conduct](CODE_OF_CONDUCT.md). Be kind, be constructive, be professional.
+All contributors must follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 

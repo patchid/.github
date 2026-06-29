@@ -1,7 +1,5 @@
 # Support
 
-## Getting Help
-
 | Type | Where |
 |---|---|
 | Bug reports | [Open an issue](https://github.com/patchid/func-kode/issues/new?template=bug_report.md) |
@@ -14,4 +12,4 @@
 
 - Bug reports: reviewed within **48 hours**
 - Feature requests: reviewed weekly
-- Security issues: acknowledged within **48 hours**
+- Security: acknowledged within **48 hours**

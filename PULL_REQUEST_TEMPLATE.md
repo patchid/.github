@@ -32,12 +32,10 @@ Closes #
 
 ## Screenshots (if UI change)
 
-<!-- Before / after -->
-
 ## Checklist
 
 - [ ] Targets `dev` branch (not `main`)
 - [ ] Lint passes (`npm run lint`)
 - [ ] No `console.log` left in
-- [ ] Types are correct — no `any`
+- [ ] No `any` types
 - [ ] Self-reviewed the diff

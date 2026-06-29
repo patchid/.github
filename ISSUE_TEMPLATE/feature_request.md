@@ -7,19 +7,9 @@ assignees: ''
 
 ## Summary
 
-<!-- One sentence: what should this do? -->
-
 ## Problem it solves
 
-<!-- What user problem or friction does this address? -->
-
 ## Proposed solution
-
-<!-- How should it work? -->
-
-## Alternatives considered
-
-<!-- Any other approaches you thought about? -->
 
 ## Scope
 
@@ -28,9 +18,8 @@ assignees: ''
 - [ ] Auth / onboarding
 - [ ] Scoring engine
 - [ ] API
-- [ ] Docs
 - [ ] Infra
-- [ ] Other
+- [ ] Docs
 
 ## Priority
 

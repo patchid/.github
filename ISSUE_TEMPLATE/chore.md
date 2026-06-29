@@ -7,11 +7,7 @@ assignees: ''
 
 ## What needs to be done?
 
-<!-- Describe the maintenance task -->
-
 ## Why now?
-
-<!-- Is this blocking something? Is it time-sensitive? -->
 
 ## Checklist
 

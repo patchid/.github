@@ -40,7 +40,7 @@ Patch ID aggregates your contributions from GitHub, open-source projects, bug bo
 - 🔓 **Open standard** — transparent scoring, community-verifiable
 - ⚡ **API-first** — plug into hiring platforms, DAOs, and devtools
 - 🔗 **Cross-platform** — GitHub, GitLab, Stack Overflow, and more
-- 🛡️ **Privacy-first** — you control what’s visible
+- 🛡️ **Privacy-first** — you control what's visible
 
 ---
 

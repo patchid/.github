@@ -7,21 +7,17 @@ assignees: ''
 
 ## What happened?
 
-<!-- A clear description of the bug -->
+<!-- Clear description of the bug -->
 
 ## Steps to reproduce
 
-1. Go to '...'
-2. Click on '...'
-3. See error
+1.
+2.
+3.
 
 ## Expected behaviour
 
-<!-- What should have happened -->
-
 ## Actual behaviour
-
-<!-- What actually happened -->
 
 ## Environment
 
@@ -31,9 +27,3 @@ assignees: ''
 - Repo + branch:
 
 ## Screenshots / logs
-
-<!-- Paste any relevant output or screenshots -->
-
-## Additional context
-
-<!-- Anything else useful -->
